@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fff3ade434f4a1429d64a579b5012b9, type: 3}
+  m_Name: Product Data - 1
+  m_EditorClassIdentifier: 
+  ProductName: Covalt
+  Price: 1100
+  ProductImg: {fileID: 2113765786, guid: 835fa72e9cbd8b344997a639fb319252, type: 3}
+  ProudctType: 0
+  ProductTypeImg: {fileID: 21300000, guid: b1697d846fd78264f8453f0ad26ac021, type: 3}
